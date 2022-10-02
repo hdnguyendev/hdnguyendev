@@ -13,14 +13,12 @@ I'm [Ho Dang Nguyen](https://www.facebook.com/100027783050819) a second-year stu
 - 🔭 I’m currently studying at **VKU**
 - :computer: Most used line of code `print "Hello World!"`
 - 📫 How to reach me: nguyenhd.dev@gmail.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I play games very often.
 
 [![Mail Badge](https://img.shields.io/badge/-nguyenhd.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nguyenhd.dev@gmail.com)
 
 
 [![](https://raw.githubusercontent.com/hdnguyendev/profile/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hdnguyendev/profile/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hdnguyendev/profile/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hdnguyendev/profile/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hdnguyendev/profile/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 
