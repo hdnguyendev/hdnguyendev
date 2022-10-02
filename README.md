@@ -4,7 +4,7 @@
 I'm [Ho Dang Nguyen](https://www.facebook.com/100027783050819) a second-year student at **Vietnam - Korea University of Information and Communication Technology**, majoring in *software engineering*.
 
 
-
+![](https://komarev.com/ghpvc/?username=hdnguyendev)
 <hr>
 
 - 🔭 I’m currently studying at **VKU**
