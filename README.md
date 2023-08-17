@@ -1,7 +1,7 @@
 ## **Hi, I'm Nguyen** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 <img src="https://cdn.vku-udn.edu.vn/vku/images/logo.png"> 
 
-I'm [Ho Dang Nguyen](https://www.facebook.com/100027783050819) a junior student at **Vietnam - Korea University of Information and Communication Technology**, majoring in *software engineering*.
+I'm [Ho Dang Nguyen](https://www.facebook.com/100027783050819) a junior at **Vietnam - Korea University of Information and Communication Technology**, majoring in *software engineering*.
 
 
 ![](https://komarev.com/ghpvc/?username=hdnguyendev)
