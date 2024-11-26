@@ -13,9 +13,8 @@ I'm [Ho Dang Nguyen](https://www.facebook.com/100027783050819) a senior at **Vie
 - 🔭 I’m currently studying at **VKU**
 - :computer: Most used line of code `print "Hello World!"`
 - 📫 How to reach me: hdnguyen.dev@gmail.com.
-- ⚡ Fun fact: I play games very often.
 
-[![Mail Badge](https://img.shields.io/badge/-nguyenhd.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hdnguyen.dev@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-hdnguyen.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hdnguyen.dev@gmail.com)
 [![](https://raw.githubusercontent.com/hdnguyendev/profile/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
