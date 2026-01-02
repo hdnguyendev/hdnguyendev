@@ -6,8 +6,6 @@ I'm [Ho Dang Nguyen](https://www.facebook.com/100027783050819) a senior at **Vie
 
 ![](https://komarev.com/ghpvc/?username=hdnguyendev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdnguyendev&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 <hr>
 
 [![Mail Badge](https://img.shields.io/badge/-hdnguyen.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hdnguyen.dev@gmail.com)
